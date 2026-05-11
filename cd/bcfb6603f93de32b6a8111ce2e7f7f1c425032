@@ -1,0 +1,26 @@
+examples/whisper.linux/app/transcriber.py
+  s_d4a1ca161ebe82::t_f745dc665bfb44 158
+  s_d4a1ca161ebe82::t_9a7dd34b8ddff9 199-255,261-263,265-268,270-276,283-292
+  s_d4a1ca161ebe82::t_5d569d57cd0b3a 145-151,153,157,165-170,173,181,198,256-260,264,269,277
+examples/whisper.linux/app/config.py
+  s_d4a1ca161ebe82::t_c37ad000ed4fdc 69-79
+examples/whisper.linux/app/tray.py
+  s_d4a1ca161ebe82::t_7ba1e657a308b8 184-186,190-192,206-223,225,239-242
+  s_d4a1ca161ebe82::t_57d219444b368a 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "cdbcfb6603f93de32b6a8111ce2e7f7f1c425032",
+  "prompts": {},
+  "sessions": {
+    "s_d4a1ca161ebe82": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "56f45055-f950-403d-bd2a-9755f005fe12",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "nnnet <zkowkmdx@sharklasers.com>"
+    }
+  }
+}
