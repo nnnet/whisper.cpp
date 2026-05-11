@@ -1,0 +1,23 @@
+examples/whisper.youtube/.gitignore
+  s_d4a1ca161ebe82::t_80ca49e47ef277 1-4
+examples/whisper.youtube/parakeet_transcribe.py
+  s_d4a1ca161ebe82::t_8521218a8cb38d 1-70
+examples/whisper.youtube/parakeet
+  s_d4a1ca161ebe82::t_a6d519a81d23ea 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "7a4ff7ec36ad5e6624bf5520cc4806bf568a38b0",
+  "prompts": {},
+  "sessions": {
+    "s_d4a1ca161ebe82": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "56f45055-f950-403d-bd2a-9755f005fe12",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "nnnet <zkowkmdx@sharklasers.com>"
+    }
+  }
+}
